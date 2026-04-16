@@ -66,6 +66,5 @@
   </a>
 </div>
  ![snake gif](https://github.com/YaserAbuzaid/YaserAbuzaid/blob/output/github-snake-dark.svg)
-###
 
 <br clear="both">
