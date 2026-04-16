@@ -53,6 +53,7 @@
 </div>
 
 ###
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <a href="instagram.com/2_nh7/" target="_blank">
