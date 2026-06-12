@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1> 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=yaserabuzaid&color=add8e6"/>
-###
-
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
