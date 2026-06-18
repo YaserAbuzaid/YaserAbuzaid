@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1E73BE&height=200&section=header&text=Hi,%20I'm%20Yaser&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/YaserAbuzaid/YaserAbuzaid/main/assets/wave-header.svg" alt="header waves"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;Game+Developer;Always+learning,+always+building" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/YaserAbuzaid/YaserAbuzaid/main/assets/typing.svg" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -78,4 +78,4 @@
 
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E73BE,100:89CFF0&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/YaserAbuzaid/YaserAbuzaid/main/assets/wave-footer.svg" alt="footer waves"/>
