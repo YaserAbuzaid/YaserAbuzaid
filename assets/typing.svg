@@ -1,0 +1,15 @@
+<svg viewBox="0 0 540 50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing animation: Full-Stack Developer, Game Developer, Always learning, always building">
+<title>Typing animation</title>
+<defs>
+<clipPath id="c1"><rect x="10" y="8" width="288" height="34"><animate attributeName="width" values="0;288;288;0;0" keyTimes="0;0.1333;0.2667;0.3222;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="10" y="8" width="0" height="34"><animate attributeName="width" values="0;0;202;202;0;0" keyTimes="0;0.3333;0.4667;0.6;0.6556;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="10" y="8" width="0" height="34"><animate attributeName="width" values="0;0;461;461;0;0" keyTimes="0;0.6667;0.8;0.9333;0.9889;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<text x="10" y="33" font-family="'Courier New',monospace" font-size="24" font-weight="600" fill="#38BDF8" clip-path="url(#c1)">Full-Stack Developer</text>
+<text x="10" y="33" font-family="'Courier New',monospace" font-size="24" font-weight="600" fill="#38BDF8" clip-path="url(#c2)">Game Developer</text>
+<text x="10" y="33" font-family="'Courier New',monospace" font-size="24" font-weight="600" fill="#38BDF8" clip-path="url(#c3)">Always learning, always building</text>
+<rect x="298" y="11" width="2.5" height="26" fill="#38BDF8">
+<animate attributeName="x" values="10;298;298;10;10;212;212;10;10;471;471;10;10" keyTimes="0;0.1333;0.2667;0.3222;0.3333;0.4667;0.6;0.6556;0.6667;0.8;0.9333;0.9889;1" dur="9s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0;0" keyTimes="0;0.5;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+</svg>

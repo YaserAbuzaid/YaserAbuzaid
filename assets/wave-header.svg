@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Animated light blue waves header">
+<title>Waving header</title>
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#89CFF0"/>
+<stop offset="1" stop-color="#1E73BE"/>
+</linearGradient>
+<path id="w" d="M0,150 Q100,134 200,150 T400,150 T600,150 T800,150 T1000,150 T1200,150 T1400,150 T1600,150 T1800,150 T2000,150 T2200,150 T2400,150 L2400,0 L0,0 Z"/>
+</defs>
+<use xlink:href="#w" fill="url(#grad)" opacity="0.3">
+<animateTransform attributeName="transform" type="translate" from="0 16" to="-400 16" dur="7s" begin="-2s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#w" fill="url(#grad)" opacity="0.55">
+<animateTransform attributeName="transform" type="translate" from="0 8" to="-400 8" dur="5s" begin="-1s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#w" fill="url(#grad)">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="3s" repeatCount="indefinite"/>
+</use>
+<text x="600" y="80" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#ffffff" stroke="#0b4a73" stroke-width="0.7" paint-order="stroke">Hi, I'm Yaser</text>
+</svg>
